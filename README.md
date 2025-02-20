@@ -9,6 +9,7 @@
 <div align=center>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,c,cpp,dotnet,ps,ai,html,css,postgresql,php,git,py,&theme=dark&perline=14" alt="My Skills">
 </div>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 
   <p align=center> </p>
